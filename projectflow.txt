@@ -5,7 +5,7 @@
    conda create -n vehicle python=3.10 -y
    conda activate vehicle
    add required modules to requirements.txt
-   Do "pip install -r requirements.txt"
+   Do ""pip install -r requirements.txt""
 4. Do a "pip list" on terminal to make sure you have local packages installed.
 
 ----------------------------------------------- MongoDB Setup -----------------------------------------------
@@ -146,4 +146,6 @@
 
 # MongoDB Username : aniketpatilai Password : XyQ02mMlXUoXCBxO 
 
-mongodb+srv://aniketpatilai:<db_password>@cluster0.s32wxhs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://aniketpatilai:<db_password>@cluster0.s32wxhs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 
+
+mongodb+srv://aniketpatilai:XyQ02mMlXUoXCBxO@cluster0.s32wxhs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
